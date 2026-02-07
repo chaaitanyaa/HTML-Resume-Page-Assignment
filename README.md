@@ -29,4 +29,5 @@ This resume includes:
     -<hr> - To create a horizontal line to divide the section.
     
 
+<img width="1920" height="1959" alt="Document-02-05-2026_07_42_PM" src="https://github.com/user-attachments/assets/3d3eaa09-2d73-4a88-9df0-e3b960af6a8e" />
 
